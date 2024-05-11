@@ -31,3 +31,13 @@
 	}
 	
 }
+@-moz-document domain("2ch.hk") {
+	#js-mv-main {
+	  border: 1px solid var(--theme_mpborder);
+	  border-radius: 12px;
+	}
+	img {
+	  border: 1px solid var(--theme_mpborder);
+	  border-radius: 12px;
+	}
+}
