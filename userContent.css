@@ -32,17 +32,48 @@
 	
 }
 @-moz-document domain("2ch.hk") {
-	#js-mv-main {
+	#js-mv-main,
+	#js-mv-player,
+	img
+	{
 	  border: 1px solid var(--theme_mpborder);
 	  border-radius: 12px;
 	}
-	#js-mv-player {
-	  border: 1px solid var(--theme_mpborder);
-	  border-radius: 12px;
+
+	.na {
+		border-radius: 210px !important;
 	}
 	
-	img {
-	  border: 1px solid var(--theme_mpborder);
-	  border-radius: 12px;
+	.hashlink {
+		border-radius: 32px !important;
+	}
+	
+	.input,
+	.post_type_reply,
+	.ctlg__thread,
+	#ABU-select,	/*Спасибо Абу*/
+	.post__btn,
+	.modal,
+	.select,
+	.qr,
+	.qr__header,
+	#qr-submit,
+	.filer__drag-area,
+	#submit,
+	.postform__mu
+	{
+		border-radius: 12px !important;
+	}
+	
+	.fm__header {
+		border-radius: 12px !important;	
+	}
+	
+	.fm {
+		font-size: .8em !important;
+	}
+	
+	.icon.na__icon {
+		margin-bottom: 10px;
 	}
 }
