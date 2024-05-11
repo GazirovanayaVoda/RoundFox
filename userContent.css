@@ -36,6 +36,11 @@
 	  border: 1px solid var(--theme_mpborder);
 	  border-radius: 12px;
 	}
+	#js-mv-player {
+	  border: 1px solid var(--theme_mpborder);
+	  border-radius: 12px;
+	}
+	
 	img {
 	  border: 1px solid var(--theme_mpborder);
 	  border-radius: 12px;
