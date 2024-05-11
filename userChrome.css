@@ -1,0 +1,19 @@
+
+:root {
+  --conf-tab-size: 20px;
+  --conf-border-radius: 12px;
+  
+  --tab-min-height: var(--conf-tab-size) !important;
+  --tab-max-height: var(--conf-tab-size) !important;
+  
+  --toolbarbutton-border-radius: var(--conf-border-radius) !important;
+  --tab-border-radius: var(--conf-border-radius) !important;
+}
+
+.tab-icon-sound-label.tab-icon-sound-playing-label {
+  display: none;
+}
+
+.titlebar-spacer {
+  display: none;
+}

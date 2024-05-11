@@ -1,0 +1,33 @@
+
+@-moz-document url(about:newtab), url(about:home) {
+	.outer-wrapper {
+		background-size: cover !important;
+		background-repeat: no-repeat !important;
+		background-image: url(wallpaper.png) !important; 
+		background-position: 0% 0 !important; 
+
+		
+		transition: background-position 1s ease-in-out !important; 
+	.logo-and-wordmark {
+		width: 512px;
+
+		margin-left: auto;
+		margin-right: auto;
+
+		border: 2px solid #ffffff0f;
+		border-radius: 12px;
+		backdrop-filter: blur(32px);
+
+	}
+	.search-handoff-button {
+		display: none !important;
+	}
+  }
+}
+
+@-moz-document domain("youtube.com") {
+	.yt-simple-endpoint.style-scope.ytd-notification-renderer {
+		backdrop-filter: blur(32px) !important;
+	}
+	
+}
