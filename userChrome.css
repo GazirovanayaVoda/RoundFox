@@ -17,3 +17,7 @@
 .titlebar-spacer {
   display: none;
 }
+
+.toolbarbutton-icon {
+  border-radius: var(--conf-border-radius) !important;
+}
