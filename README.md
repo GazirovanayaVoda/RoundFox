@@ -9,6 +9,10 @@ Small theme to make Firefox more rounded and compact
 
 By default theres no wallpapers, you can add png image named ***wallpaper.png*** in ***chrome***
 
+Wallpaper from screenshot: [click](https://github.com/GazirovanayaVoda/RoundFox/blob/main/wallpaper1/wallpaper.png)
+
+Another good wallpaper: [click](https://github.com/GazirovanayaVoda/RoundFox/blob/main/wallpaper2/wallpaper.png)
+
 ## **RU:**
 
 Небольшая тема делающая Firefox более округлым и компактным
@@ -22,3 +26,7 @@ By default theres no wallpapers, you can add png image named ***wallpaper.png***
 - Зайдите в директорию профиля через ***about:support***, создайте директорию ***chrome***, в неё киньте скачанные файлы
 
 По умолчанию нет обоев, так что необходимо добавить свои с название ***wallpaper.png***
+
+Обои со скрина: [обоина](https://github.com/GazirovanayaVoda/RoundFox/blob/main/wallpaper1/wallpaper.png)
+
+Тоже прикольные обои: [обоина](https://github.com/GazirovanayaVoda/RoundFox/blob/main/wallpaper2/wallpaper.png)
