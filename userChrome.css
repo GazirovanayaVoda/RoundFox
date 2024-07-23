@@ -23,3 +23,7 @@
   font-weight: bold;
   font-family: Cascadia Code;
 }
+
+#PersonalToolbar {
+  transition: 0.5s ease-in-out;
+}
